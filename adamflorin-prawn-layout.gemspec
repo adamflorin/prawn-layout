@@ -5,7 +5,7 @@
 PRAWN_LAYOUT_VERSION = "0.3.2"
 
 Gem::Specification.new do |spec|
-  spec.name = "prawn-layout"
+  spec.name = "adamflorin-prawn-layout"
   spec.version = PRAWN_LAYOUT_VERSION
   spec.platform = Gem::Platform::RUBY
   spec.summary = "An extension to Prawn that provides table support and other layout functionality"
